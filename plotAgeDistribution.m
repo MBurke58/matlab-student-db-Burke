@@ -1,5 +1,5 @@
-% Author Name: Heidi Kling
-% Email: klingh24@rowan.edu
+% Author Name: Matthew Burke
+% Email: burkem37@rowan.edu
 % Course: MATLAB Programming - Fall 2024
 % Assignment: Midterm
 % Task: Age Distrabution Visulization
